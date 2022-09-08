@@ -62,13 +62,14 @@ main {
 }
 
 .card h3 {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 700;
     color: var(--Darkblue);
 }
 
 .card p {
     font-weight: 400;
-    font-size: .8rem;
+    font-size: .9rem;
     color: var(--Grayishblue);
+    margin-bottom: 1.2rem;
 }
