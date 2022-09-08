@@ -21,7 +21,8 @@
 body {
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
-
+    width: 100vw;
+    height: 100vh;
 }
 
 main {
@@ -55,14 +56,14 @@ main {
     pointer-events: none;
 }
 
-.card h3,
+.card h1,
 .card p {
     padding: 0rem 1rem;
     text-align: center;
 }
 
-.card h3 {
-    font-size: 1.2rem;
+.card h1 {
+    font-size: 1.3rem;
     font-weight: 700;
     color: var(--Darkblue);
 }
